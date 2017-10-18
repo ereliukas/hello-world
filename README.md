@@ -1,2 +1,4 @@
 # hello-world
-tutorial
+a bit about myself... I really enjoy what i'm doing now.
+
+
